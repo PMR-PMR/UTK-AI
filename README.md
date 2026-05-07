@@ -1,4 +1,4 @@
-# Artificial Intelligence & Machine Learning Project Portfolio
+# Artificial Intelligence & Machine Learning Workflow Portfolio
 #
 Portfolio of all the AI-related projects I worked on at UTK.
 #
