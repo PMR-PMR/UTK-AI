@@ -5,7 +5,6 @@ Portfolio of all the AI-related projects I worked on at UTK.
 # School Github Account: 
 prangara-vols
 #
-#
 # ◉ Project 1 (Platform Configuration) 
 https://github.com/PMR-PMR/AI101-Project-1
 #
