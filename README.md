@@ -1,6 +1,9 @@
-# UTK-AI
-# School Github Account: prangara-vols
+# Artificial Intelligence & Machine Learning Project Portfolio
+#
 Portfolio of all the AI-related projects I worked on at UTK.
+#
+# School Github Account: 
+prangara-vols
 #
 #
 # ◉ Assignment 1 (Platform Configuration) 
