@@ -7,7 +7,7 @@ prangara-vols
 #
 #
 # ◉ Assignment 1 (Platform Configuration) 
-https://github.com/PMR-PMR/UTK-AI-ai101-assignment1
+https://github.com/PMR-PMR/AI101-Project-1
 #
 # ◉ Assignment 2 (Real-World Dataset Initialization)
 https://github.com/PMR-PMR/UTK-AI-ai101-assignment2
